@@ -1,0 +1,54 @@
+apply plugin: 'com.android.application'
+repositories {
+    maven {
+        url "https://jitpack.io"
+    }
+}
+
+android {
+    compileSdkVersion 26
+    defaultConfig {
+        applicationId "com.example.pang.spacedeliveryfordeliverman"
+        minSdkVersion 22
+        targetSdkVersion 26
+        versionCode 1
+        versionName "1.0"
+        testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
+    }
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+        }
+    }
+}
+
+dependencies {
+    implementation fileTree(dir: 'libs', include: ['*.jar'])
+    implementation 'com.android.support:appcompat-v7:26.1.0'
+    implementation 'com.android.support:design:27.1.0'
+    implementation 'com.android.support.constraint:constraint-layout:1.1.2'
+    implementation 'com.android.support:design:26.1.0'
+    implementation 'com.google.android.gms:play-services-maps:15.0.1'
+    testImplementation 'junit:junit:4.12'
+    androidTestImplementation 'com.android.support.test:runner:1.0.2'
+    androidTestImplementation 'com.android.support.test.espresso:espresso-core:3.0.2'
+    compile 'com.koushikdutta.ion:ion:2.+'
+    compile 'com.github.armcha:SimplePermissions:1.0.0'
+    implementation 'com.android.support:cardview-v7:26.1.0'
+
+    //Circle imageview
+    implementation 'com.github.bumptech.glide:glide:3.7.0'
+    //Circle imageview xml
+    implementation 'de.hdodenhof:circleimageview:2.2.0'
+
+    //add for permission
+    implementation 'com.auron:permission-manage:1.1.6'
+
+    //add for image cropper
+    // implementation 'com.edmodo:cropper:1.0.1'
+    implementation 'com.theartofdev.edmodo:android-image-cropper:2.7.+'
+    implementation 'com.squareup.picasso:picasso:2.5.2'
+    //mapDirestion
+    compile 'com.akexorcist:googledirectionlibrary:1.0.5'
+}

@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Customer.deliveryInFo">
+
+    <Button
+        android:id="@+id/buttonDeliInfo"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:layout_marginTop="8dp"
+        android:text="ยืนยันสถานที่ส่ง"
+        android:textSize="18sp"
+        android:background="@drawable/border"
+        android:textColor="@color/white"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="1.0" />
+
+    <LinearLayout
+        android:id="@+id/linearLayout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="10dp"
+        tools:ignore="MissingConstraints"
+        tools:layout_editor_absoluteX="8dp"
+        tools:layout_editor_absoluteY="8dp">
+
+
+        <TextView
+            android:id="@+id/textViewDeliPlace"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="สถานที่จัดส่ง" />
+
+        <TextView
+            android:id="@+id/mapLocate"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:ems="10"
+            android:hint="แตะเพื่อหาที่อยู่ของคุณ"
+            android:paddingLeft="2dp"
+            android:paddingTop="10dp"
+            android:textColor="#000"
+            android:textSize="20sp" />
+
+        <EditText
+            android:id="@+id/deltailPlace"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingTop="15dp"
+            android:ems="10"
+            android:hint="รายละเอียดสถานที่ (ถ้ามี)"
+            android:inputType="textPersonName" />
+
+        <EditText
+            android:id="@+id/recepName"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:ems="10"
+            android:hint="* ชื่อผู้รับ"
+            android:inputType="textPersonName" />
+
+        <EditText
+            android:id="@+id/recepNumber"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:ems="10"
+            android:hint="* เบอร์ผู้รับ"
+            android:inputType="textPersonName" />
+
+        <TextView
+            android:id="@+id/textViewVahicle"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingTop="10dp"
+            android:text="ยานพาหนะ" />
+
+        <TextView
+            android:id="@+id/vahicle"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:ems="10"
+            android:inputType="textPersonName"
+            android:paddingLeft="2dp"
+            android:paddingTop="5dp"
+            android:text="มอไซต์"
+            android:textColor="#000"
+            android:textSize="20sp"/>
+
+        <TextView
+            android:id="@+id/textViewRes"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingTop="10dp"
+            android:text="ร้านอาหาร" />
+
+        <TextView
+            android:id="@+id/textViewRestaurant"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingLeft="2dp"
+            android:paddingTop="5dp"
+            android:text="บังนูดหน้า มอ. ปัตตานี"
+            android:textColor="#000"
+            android:textSize="20sp" />
+    </LinearLayout>
+
+    <Button
+        android:id="@+id/buttonCostInfo"
+        android:layout_width="341dp"
+        android:layout_height="37dp"
+        android:layout_marginBottom="8dp"
+        android:layout_marginEnd="8dp"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="8dp"
+        android:text="นโยบายค่าบริการ"
+        android:textSize="14sp"
+        android:background="@drawable/border"
+        android:textColor="@color/white"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.518"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.829" />
+
+
+</android.support.constraint.ConstraintLayout>

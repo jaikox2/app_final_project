@@ -1,0 +1,379 @@
+-- Merging decision tree log ---
+provider#android.support.v4.content.FileProvider
+INJECTED from D:\Final PJ-1\New folder\Costomer\app\src\main\AndroidManifest.xml:65:9-73:20
+	android:grantUriPermissions
+		ADDED from D:\Final PJ-1\New folder\Costomer\app\src\main\AndroidManifest.xml:69:13-47
+	android:authorities
+		INJECTED from D:\Final PJ-1\New folder\Costomer\app\src\main\AndroidManifest.xml
+		ADDED from D:\Final PJ-1\New folder\Costomer\app\src\main\AndroidManifest.xml:67:13-60
+	android:exported
+		ADDED from D:\Final PJ-1\New folder\Costomer\app\src\main\AndroidManifest.xml:68:13-37
+	android:name
+		ADDED from D:\Final PJ-1\New folder\Costomer\app\src\main\AndroidManifest.xml:66:13-67
+manifest
+ADDED from D:\Final PJ-1\New folder\Costomer\app\src\main\AndroidManifest.xml:2:1-95:12
+INJECTED from D:\Final PJ-1\New folder\Costomer\app\src\main\AndroidManifest.xml:2:1-95:12
+INJECTED from D:\Final PJ-1\New folder\Costomer\app\src\main\AndroidManifest.xml:2:1-95:12
+INJECTED from D:\Final PJ-1\New folder\Costomer\app\src\main\AndroidManifest.xml:2:1-95:12
+MERGED from [com.koushikdutta.ion:ion:2.2.1] C:\Users\Pang\.gradle\caches\transforms-1\files-1.1\ion-2.2.1.aar\2297cca5bfaedc38e461bd1719a306a2\AndroidManifest.xml:2:1-16:12
+MERGED from [com.github.armcha:SimplePermissions:1.0.0] C:\Users\Pang\.gradle\caches\transforms-1\files-1.1\SimplePermissions-1.0.0.aar\9b65547ebf35006ac16ab8514f64bc73\AndroidManifest.xml:2:1-11:12
+MERGED from [com.akexorcist:googledirectionlibrary:1.0.5] C:\Users\Pang\.gradle\caches\transforms-1\files-1.1\googledirectionlibrary-1.0.5.aar\71e0b3cf1bee6da0abd147b024b4c304\AndroidManifest.xml:2:1-13:12
+MERGED from [pl.droidsonroids.gif:android-gif-drawable:1.2.4] C:\Users\Pang\.gradle\caches\transforms-1\files-1.1\android-gif-drawable-1.2.4.aar\4436082c6f3920b9e17091b7f1130440\AndroidManifest.xml:2:1-11:12
+MERGED from [com.auron:permission-manage:1.1.6] C:\Users\Pang\.gradle\caches\transforms-1\files-1.1\permission-manage-1.1.6.aar\8707081febac1f972f63354d035bbcfd\AndroidManifest.xml:25:1-40:12
+MERGED from [com.theartofdev.edmodo:android-image-cropper:2.7.0] C:\Users\Pang\.gradle\caches\transforms-1\files-1.1\android-image-cropper-2.7.0.aar\239dd981fa75ced8942abbb0ad4e7126\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:design:27.1.0] C:\Users\Pang\.gradle\caches\transforms-1\files-1.1\design-27.1.0.aar\996910ba04dd5ba990874815c1788235\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Pang\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\64b37ca829d42bc99d0c0176100b6824\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\Pang\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\6bc70d8ceb0317989a0b13235c138202\AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.gms:play-services-maps:15.0.1] C:\Users\Pang\.gradle\caches\transforms-1\files-1.1\play-services-maps-15.0.1.aar\5a2058b69ac788a206cf8fbf9bc88e52\AndroidManifest.xml:17:1-32:12
+MERGED from [com.android.support:cardview-v7:26.1.0] C:\Users\Pang\.gradle\caches\transforms-1\files-1.1\cardview-v7-26.1.0.aar\08938b76b2843cfb5971e68bad149354\AndroidManifest.xml:17:1-28:12
+MERGED from [de.hdodenhof:circleimageview:2.2.0] C:\Users\Pang\.gradle\caches\transforms-1\files-1.1\circleimageview-2.2.0.aar\f64b343167effd0fd70fa3f257a77b7d\AndroidManifest.xml:2:1-11:12
+MERGED from [com.koushikdutta.async:androidasync:2.2.1] C:\Users\Pang\.gradle\caches\transforms-1\files-1.1\androidasync-2.2.1.aar\27e0cb7d0fbdf8a9cbc4f87627787743\AndroidManifest.xml:2:1-16:12
+MERGED from [com.android.support:exifinterface:27.1.1] C:\Users\Pang\.gradle\caches\transforms-1\files-1.1\exifinterface-27.1.1.aar\5e08db8c8e4e8bb19d0188351ea0190c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.1.0] C:\Users\Pang\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.0.aar\1efd38a120077a88ce801e19ce442131\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.1.0] C:\Users\Pang\.gradle\caches\transforms-1\files-1.1\transition-27.1.0.aar\911806d9cccab12bba17e9adcdbc2e3c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Pang\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\b2e9b5bfe60d0b4e7f69372fe8aa9e39\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Pang\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\5fef7ba275ce0afdee6ca610b0723142\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\Pang\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\1efdd0e02241c44acbe86614091c7e59\AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] C:\Users\Pang\.gradle\caches\transforms-1\files-1.1\play-services-tasks-15.0.1.aar\c499a2b82edf8c971ebc527749af162e\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\Pang\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\cceb1ced5277bed46292253a8992fbe6\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:27.1.0] C:\Users\Pang\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.0.aar\e189a202a981509828a37c273a1fb9b4\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Pang\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\f75dfa6f26ca217dd16d5793b960446f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Pang\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\826421dad30431c30b814bc3272a904f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Pang\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\f2e7083e7560f6e987f1f20f393b1587\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.0] C:\Users\Pang\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.0.aar\d8a3ef4002e69e31128771537662de7d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Pang\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\2155002a28af3c0038ceb3fdffcdf62a\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Pang\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\c4a2d5f3bb295a9bb0cae8fe174ffae9\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Pang\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\42f5eb2e4ca2dcd0a63bba2a8ec918bf\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Pang\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\e60ed53bbe736d63c382ceb3de643b7f\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Pang\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\e58549604e702ce8a53fc335806503bf\AndroidManifest.xml:17:1-22:12
+INJECTED from D:\Final PJ-1\New folder\Costomer\app\src\main\AndroidManifest.xml:2:1-95:12
+INJECTED from D:\Final PJ-1\New folder\Costomer\app\src\main\AndroidManifest.xml:2:1-95:12
+INJECTED from D:\Final PJ-1\New folder\Costomer\app\src\main\AndroidManifest.xml:2:1-95:12
+	package
+		ADDED from D:\Final PJ-1\New folder\Costomer\app\src\main\AndroidManifest.xml:3:5-45
+		INJECTED from D:\Final PJ-1\New folder\Costomer\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Final PJ-1\New folder\Costomer\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\Final PJ-1\New folder\Costomer\app\src\main\AndroidManifest.xml
+		ADDED from D:\Final PJ-1\New folder\Costomer\app\src\main\AndroidManifest.xml:2:1-95:12
+		INJECTED from D:\Final PJ-1\New folder\Costomer\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from D:\Final PJ-1\New folder\Costomer\app\src\main\AndroidManifest.xml
+		ADDED from D:\Final PJ-1\New folder\Costomer\app\src\main\AndroidManifest.xml:2:1-95:12
+		INJECTED from D:\Final PJ-1\New folder\Costomer\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\Final PJ-1\New folder\Costomer\app\src\main\AndroidManifest.xml:2:11-69
+uses-feature#android.hardware.camera
+ADDED from D:\Final PJ-1\New folder\Costomer\app\src\main\AndroidManifest.xml:5:5-60
+	android:name
+		ADDED from D:\Final PJ-1\New folder\Costomer\app\src\main\AndroidManifest.xml:5:19-57
+uses-permission#android.permission.CAMERA
+ADDED from D:\Final PJ-1\New folder\Costomer\app\src\main\AndroidManifest.xml:7:5-65
+	android:name
+		ADDED from D:\Final PJ-1\New folder\Costomer\app\src\main\AndroidManifest.xml:7:22-62
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from D:\Final PJ-1\New folder\Costomer\app\src\main\AndroidManifest.xml:8:5-80
+	android:name
+		ADDED from D:\Final PJ-1\New folder\Costomer\app\src\main\AndroidManifest.xml:8:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from D:\Final PJ-1\New folder\Costomer\app\src\main\AndroidManifest.xml:9:5-81
+	android:name
+		ADDED from D:\Final PJ-1\New folder\Costomer\app\src\main\AndroidManifest.xml:9:22-78
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from D:\Final PJ-1\New folder\Costomer\app\src\main\AndroidManifest.xml:10:5-79
+	android:name
+		ADDED from D:\Final PJ-1\New folder\Costomer\app\src\main\AndroidManifest.xml:10:22-76
+application
+ADDED from D:\Final PJ-1\New folder\Costomer\app\src\main\AndroidManifest.xml:12:5-93:19
+MERGED from [com.koushikdutta.ion:ion:2.2.1] C:\Users\Pang\.gradle\caches\transforms-1\files-1.1\ion-2.2.1.aar\2297cca5bfaedc38e461bd1719a306a2\AndroidManifest.xml:13:5-14:19
+MERGED from [com.koushikdutta.ion:ion:2.2.1] C:\Users\Pang\.gradle\caches\transforms-1\files-1.1\ion-2.2.1.aar\2297cca5bfaedc38e461bd1719a306a2\AndroidManifest.xml:13:5-14:19
+MERGED from [com.auron:permission-manage:1.1.6] C:\Users\Pang\.gradle\caches\transforms-1\files-1.1\permission-manage-1.1.6.aar\8707081febac1f972f63354d035bbcfd\AndroidManifest.xml:34:5-38:19
+MERGED from [com.auron:permission-manage:1.1.6] C:\Users\Pang\.gradle\caches\transforms-1\files-1.1\permission-manage-1.1.6.aar\8707081febac1f972f63354d035bbcfd\AndroidManifest.xml:34:5-38:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\Pang\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\6bc70d8ceb0317989a0b13235c138202\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\Pang\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\6bc70d8ceb0317989a0b13235c138202\AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.gms:play-services-maps:15.0.1] C:\Users\Pang\.gradle\caches\transforms-1\files-1.1\play-services-maps-15.0.1.aar\5a2058b69ac788a206cf8fbf9bc88e52\AndroidManifest.xml:30:5-20
+MERGED from [com.google.android.gms:play-services-maps:15.0.1] C:\Users\Pang\.gradle\caches\transforms-1\files-1.1\play-services-maps-15.0.1.aar\5a2058b69ac788a206cf8fbf9bc88e52\AndroidManifest.xml:30:5-20
+MERGED from [com.android.support:cardview-v7:26.1.0] C:\Users\Pang\.gradle\caches\transforms-1\files-1.1\cardview-v7-26.1.0.aar\08938b76b2843cfb5971e68bad149354\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:cardview-v7:26.1.0] C:\Users\Pang\.gradle\caches\transforms-1\files-1.1\cardview-v7-26.1.0.aar\08938b76b2843cfb5971e68bad149354\AndroidManifest.xml:22:5-26:19
+MERGED from [de.hdodenhof:circleimageview:2.2.0] C:\Users\Pang\.gradle\caches\transforms-1\files-1.1\circleimageview-2.2.0.aar\f64b343167effd0fd70fa3f257a77b7d\AndroidManifest.xml:9:5-20
+MERGED from [de.hdodenhof:circleimageview:2.2.0] C:\Users\Pang\.gradle\caches\transforms-1\files-1.1\circleimageview-2.2.0.aar\f64b343167effd0fd70fa3f257a77b7d\AndroidManifest.xml:9:5-20
+MERGED from [com.koushikdutta.async:androidasync:2.2.1] C:\Users\Pang\.gradle\caches\transforms-1\files-1.1\androidasync-2.2.1.aar\27e0cb7d0fbdf8a9cbc4f87627787743\AndroidManifest.xml:13:5-14:19
+MERGED from [com.koushikdutta.async:androidasync:2.2.1] C:\Users\Pang\.gradle\caches\transforms-1\files-1.1\androidasync-2.2.1.aar\27e0cb7d0fbdf8a9cbc4f87627787743\AndroidManifest.xml:13:5-14:19
+MERGED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\Pang\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\1efdd0e02241c44acbe86614091c7e59\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\Pang\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\1efdd0e02241c44acbe86614091c7e59\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] C:\Users\Pang\.gradle\caches\transforms-1\files-1.1\play-services-tasks-15.0.1.aar\c499a2b82edf8c971ebc527749af162e\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] C:\Users\Pang\.gradle\caches\transforms-1\files-1.1\play-services-tasks-15.0.1.aar\c499a2b82edf8c971ebc527749af162e\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\Pang\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\cceb1ced5277bed46292253a8992fbe6\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\Pang\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\cceb1ced5277bed46292253a8992fbe6\AndroidManifest.xml:22:5-26:19
+	android:supportsRtl
+		ADDED from D:\Final PJ-1\New folder\Costomer\app\src\main\AndroidManifest.xml:17:9-35
+	android:label
+		ADDED from D:\Final PJ-1\New folder\Costomer\app\src\main\AndroidManifest.xml:15:9-41
+	android:roundIcon
+		ADDED from D:\Final PJ-1\New folder\Costomer\app\src\main\AndroidManifest.xml:16:9-54
+	android:icon
+		ADDED from D:\Final PJ-1\New folder\Costomer\app\src\main\AndroidManifest.xml:14:9-43
+	android:allowBackup
+		ADDED from D:\Final PJ-1\New folder\Costomer\app\src\main\AndroidManifest.xml:13:9-35
+	android:theme
+		ADDED from D:\Final PJ-1\New folder\Costomer\app\src\main\AndroidManifest.xml:18:9-40
+activity#com.example.pang.spacedelivery.MainActivity
+ADDED from D:\Final PJ-1\New folder\Costomer\app\src\main\AndroidManifest.xml:19:9-25:20
+	android:name
+		ADDED from D:\Final PJ-1\New folder\Costomer\app\src\main\AndroidManifest.xml:19:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\Final PJ-1\New folder\Costomer\app\src\main\AndroidManifest.xml:20:13-24:29
+action#android.intent.action.MAIN
+ADDED from D:\Final PJ-1\New folder\Costomer\app\src\main\AndroidManifest.xml:21:17-69
+	android:name
+		ADDED from D:\Final PJ-1\New folder\Costomer\app\src\main\AndroidManifest.xml:21:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\Final PJ-1\New folder\Costomer\app\src\main\AndroidManifest.xml:23:17-77
+	android:name
+		ADDED from D:\Final PJ-1\New folder\Costomer\app\src\main\AndroidManifest.xml:23:27-74
+meta-data#preloaded_fonts
+ADDED from D:\Final PJ-1\New folder\Costomer\app\src\main\AndroidManifest.xml:27:9-29:57
+	android:resource
+		ADDED from D:\Final PJ-1\New folder\Costomer\app\src\main\AndroidManifest.xml:29:13-54
+	android:name
+		ADDED from D:\Final PJ-1\New folder\Costomer\app\src\main\AndroidManifest.xml:28:13-43
+activity#com.example.pang.spacedelivery.Customer.Login
+ADDED from D:\Final PJ-1\New folder\Costomer\app\src\main\AndroidManifest.xml:31:9-52
+	android:name
+		ADDED from D:\Final PJ-1\New folder\Costomer\app\src\main\AndroidManifest.xml:31:19-49
+activity#com.example.pang.spacedelivery.Customer.MenuActivity
+ADDED from D:\Final PJ-1\New folder\Costomer\app\src\main\AndroidManifest.xml:32:9-34:63
+	android:label
+		ADDED from D:\Final PJ-1\New folder\Costomer\app\src\main\AndroidManifest.xml:34:13-60
+	android:name
+		ADDED from D:\Final PJ-1\New folder\Costomer\app\src\main\AndroidManifest.xml:33:13-50
+activity#com.example.pang.spacedelivery.Customer.Home
+ADDED from D:\Final PJ-1\New folder\Costomer\app\src\main\AndroidManifest.xml:35:9-51
+	android:name
+		ADDED from D:\Final PJ-1\New folder\Costomer\app\src\main\AndroidManifest.xml:35:19-48
+activity#com.example.pang.spacedelivery.Customer.profile
+ADDED from D:\Final PJ-1\New folder\Costomer\app\src\main\AndroidManifest.xml:36:9-54
+	android:name
+		ADDED from D:\Final PJ-1\New folder\Costomer\app\src\main\AndroidManifest.xml:36:19-51
+activity#com.example.pang.spacedelivery.Customer.Register
+ADDED from D:\Final PJ-1\New folder\Costomer\app\src\main\AndroidManifest.xml:37:9-55
+	android:name
+		ADDED from D:\Final PJ-1\New folder\Costomer\app\src\main\AndroidManifest.xml:37:19-52
+activity#com.example.pang.spacedelivery.Customer.FoodDetail
+ADDED from D:\Final PJ-1\New folder\Costomer\app\src\main\AndroidManifest.xml:38:9-57
+	android:name
+		ADDED from D:\Final PJ-1\New folder\Costomer\app\src\main\AndroidManifest.xml:38:19-54
+meta-data#com.google.android.geo.API_KEY
+ADDED from D:\Final PJ-1\New folder\Costomer\app\src\main\AndroidManifest.xml:47:9-49:55
+	android:value
+		ADDED from D:\Final PJ-1\New folder\Costomer\app\src\main\AndroidManifest.xml:49:13-52
+	android:name
+		ADDED from D:\Final PJ-1\New folder\Costomer\app\src\main\AndroidManifest.xml:48:13-58
+activity#com.example.pang.spacedelivery.Customer.getResLocationsMapsActivity
+ADDED from D:\Final PJ-1\New folder\Costomer\app\src\main\AndroidManifest.xml:51:9-53:77
+	android:label
+		ADDED from D:\Final PJ-1\New folder\Costomer\app\src\main\AndroidManifest.xml:53:13-74
+	android:name
+		ADDED from D:\Final PJ-1\New folder\Costomer\app\src\main\AndroidManifest.xml:52:13-65
+activity#com.example.pang.spacedelivery.Fragment_main
+ADDED from D:\Final PJ-1\New folder\Costomer\app\src\main\AndroidManifest.xml:54:9-51
+	android:name
+		ADDED from D:\Final PJ-1\New folder\Costomer\app\src\main\AndroidManifest.xml:54:19-48
+activity#com.example.pang.spacedelivery.Customer.UpdateProfile
+ADDED from D:\Final PJ-1\New folder\Costomer\app\src\main\AndroidManifest.xml:55:9-60
+	android:name
+		ADDED from D:\Final PJ-1\New folder\Costomer\app\src\main\AndroidManifest.xml:55:19-57
+activity#com.theartofdev.edmodo.cropper.CropImageActivity
+ADDED from D:\Final PJ-1\New folder\Costomer\app\src\main\AndroidManifest.xml:59:9-61:59
+	android:theme
+		ADDED from D:\Final PJ-1\New folder\Costomer\app\src\main\AndroidManifest.xml:61:13-56
+	android:name
+		ADDED from D:\Final PJ-1\New folder\Costomer\app\src\main\AndroidManifest.xml:60:13-76
+activity#com.example.pang.spacedelivery.Customer.AllRestaurant
+ADDED from D:\Final PJ-1\New folder\Costomer\app\src\main\AndroidManifest.xml:75:9-60
+	android:name
+		ADDED from D:\Final PJ-1\New folder\Costomer\app\src\main\AndroidManifest.xml:75:19-57
+activity#com.example.pang.spacedelivery.Customer.AllRestaurantAdapter
+ADDED from D:\Final PJ-1\New folder\Costomer\app\src\main\AndroidManifest.xml:76:9-67
+	android:name
+		ADDED from D:\Final PJ-1\New folder\Costomer\app\src\main\AndroidManifest.xml:76:19-64
+activity#com.example.pang.spacedelivery.Customer.FoodInRestaurant
+ADDED from D:\Final PJ-1\New folder\Costomer\app\src\main\AndroidManifest.xml:77:9-79:59
+	android:theme
+		ADDED from D:\Final PJ-1\New folder\Costomer\app\src\main\AndroidManifest.xml:79:13-56
+	android:name
+		ADDED from D:\Final PJ-1\New folder\Costomer\app\src\main\AndroidManifest.xml:78:13-54
+activity#com.example.pang.spacedelivery.Customer.FoodInRestaurantAdapter
+ADDED from D:\Final PJ-1\New folder\Costomer\app\src\main\AndroidManifest.xml:80:9-70
+	android:name
+		ADDED from D:\Final PJ-1\New folder\Costomer\app\src\main\AndroidManifest.xml:80:19-67
+activity#com.example.pang.spacedelivery.Customer.resInfomation
+ADDED from D:\Final PJ-1\New folder\Costomer\app\src\main\AndroidManifest.xml:81:9-60
+	android:name
+		ADDED from D:\Final PJ-1\New folder\Costomer\app\src\main\AndroidManifest.xml:81:19-57
+activity#com.example.pang.spacedelivery.Customer.FoodInCart
+ADDED from D:\Final PJ-1\New folder\Costomer\app\src\main\AndroidManifest.xml:82:9-57
+	android:name
+		ADDED from D:\Final PJ-1\New folder\Costomer\app\src\main\AndroidManifest.xml:82:19-54
+activity#com.example.pang.spacedelivery.Customer.FoodInCartAdapter
+ADDED from D:\Final PJ-1\New folder\Costomer\app\src\main\AndroidManifest.xml:83:9-64
+	android:name
+		ADDED from D:\Final PJ-1\New folder\Costomer\app\src\main\AndroidManifest.xml:83:19-61
+activity#com.example.pang.spacedelivery.Customer.deliveryInFo
+ADDED from D:\Final PJ-1\New folder\Costomer\app\src\main\AndroidManifest.xml:84:9-59
+	android:name
+		ADDED from D:\Final PJ-1\New folder\Costomer\app\src\main\AndroidManifest.xml:84:19-56
+activity#com.example.pang.spacedelivery.Customer.ordering
+ADDED from D:\Final PJ-1\New folder\Costomer\app\src\main\AndroidManifest.xml:85:9-55
+	android:name
+		ADDED from D:\Final PJ-1\New folder\Costomer\app\src\main\AndroidManifest.xml:85:19-52
+activity#com.example.pang.spacedelivery.Customer.waitingDeliMan
+ADDED from D:\Final PJ-1\New folder\Costomer\app\src\main\AndroidManifest.xml:86:9-61
+	android:name
+		ADDED from D:\Final PJ-1\New folder\Costomer\app\src\main\AndroidManifest.xml:86:19-58
+activity#com.example.pang.spacedelivery.Customer.finishOrder
+ADDED from D:\Final PJ-1\New folder\Costomer\app\src\main\AndroidManifest.xml:87:9-58
+	android:name
+		ADDED from D:\Final PJ-1\New folder\Costomer\app\src\main\AndroidManifest.xml:87:19-55
+activity#com.example.pang.spacedelivery.Customer.waitOrderingPage
+ADDED from D:\Final PJ-1\New folder\Costomer\app\src\main\AndroidManifest.xml:88:9-63
+	android:name
+		ADDED from D:\Final PJ-1\New folder\Costomer\app\src\main\AndroidManifest.xml:88:19-60
+activity#com.example.pang.spacedelivery.Customer.waitOrderingPageAdapter
+ADDED from D:\Final PJ-1\New folder\Costomer\app\src\main\AndroidManifest.xml:89:9-70
+	android:name
+		ADDED from D:\Final PJ-1\New folder\Costomer\app\src\main\AndroidManifest.xml:89:19-67
+activity#com.example.pang.spacedelivery.Customer.foodInOrdering
+ADDED from D:\Final PJ-1\New folder\Costomer\app\src\main\AndroidManifest.xml:90:9-61
+	android:name
+		ADDED from D:\Final PJ-1\New folder\Costomer\app\src\main\AndroidManifest.xml:90:19-58
+activity#com.example.pang.spacedelivery.Customer.foodInOrderingAdapter
+ADDED from D:\Final PJ-1\New folder\Costomer\app\src\main\AndroidManifest.xml:91:9-68
+	android:name
+		ADDED from D:\Final PJ-1\New folder\Costomer\app\src\main\AndroidManifest.xml:91:19-65
+activity#com.example.pang.spacedelivery.Customer.ServicePolicy
+ADDED from D:\Final PJ-1\New folder\Costomer\app\src\main\AndroidManifest.xml:92:9-69
+	android:name
+		ADDED from D:\Final PJ-1\New folder\Costomer\app\src\main\AndroidManifest.xml:92:19-57
+uses-sdk
+INJECTED from D:\Final PJ-1\New folder\Costomer\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\Final PJ-1\New folder\Costomer\app\src\main\AndroidManifest.xml
+INJECTED from D:\Final PJ-1\New folder\Costomer\app\src\main\AndroidManifest.xml
+MERGED from [com.koushikdutta.ion:ion:2.2.1] C:\Users\Pang\.gradle\caches\transforms-1\files-1.1\ion-2.2.1.aar\2297cca5bfaedc38e461bd1719a306a2\AndroidManifest.xml:7:5-9:41
+MERGED from [com.koushikdutta.ion:ion:2.2.1] C:\Users\Pang\.gradle\caches\transforms-1\files-1.1\ion-2.2.1.aar\2297cca5bfaedc38e461bd1719a306a2\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.armcha:SimplePermissions:1.0.0] C:\Users\Pang\.gradle\caches\transforms-1\files-1.1\SimplePermissions-1.0.0.aar\9b65547ebf35006ac16ab8514f64bc73\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.armcha:SimplePermissions:1.0.0] C:\Users\Pang\.gradle\caches\transforms-1\files-1.1\SimplePermissions-1.0.0.aar\9b65547ebf35006ac16ab8514f64bc73\AndroidManifest.xml:7:5-9:41
+MERGED from [com.akexorcist:googledirectionlibrary:1.0.5] C:\Users\Pang\.gradle\caches\transforms-1\files-1.1\googledirectionlibrary-1.0.5.aar\71e0b3cf1bee6da0abd147b024b4c304\AndroidManifest.xml:7:5-9:41
+MERGED from [com.akexorcist:googledirectionlibrary:1.0.5] C:\Users\Pang\.gradle\caches\transforms-1\files-1.1\googledirectionlibrary-1.0.5.aar\71e0b3cf1bee6da0abd147b024b4c304\AndroidManifest.xml:7:5-9:41
+MERGED from [pl.droidsonroids.gif:android-gif-drawable:1.2.4] C:\Users\Pang\.gradle\caches\transforms-1\files-1.1\android-gif-drawable-1.2.4.aar\4436082c6f3920b9e17091b7f1130440\AndroidManifest.xml:7:5-9:41
+MERGED from [pl.droidsonroids.gif:android-gif-drawable:1.2.4] C:\Users\Pang\.gradle\caches\transforms-1\files-1.1\android-gif-drawable-1.2.4.aar\4436082c6f3920b9e17091b7f1130440\AndroidManifest.xml:7:5-9:41
+MERGED from [com.auron:permission-manage:1.1.6] C:\Users\Pang\.gradle\caches\transforms-1\files-1.1\permission-manage-1.1.6.aar\8707081febac1f972f63354d035bbcfd\AndroidManifest.xml:30:5-32:41
+MERGED from [com.auron:permission-manage:1.1.6] C:\Users\Pang\.gradle\caches\transforms-1\files-1.1\permission-manage-1.1.6.aar\8707081febac1f972f63354d035bbcfd\AndroidManifest.xml:30:5-32:41
+MERGED from [com.theartofdev.edmodo:android-image-cropper:2.7.0] C:\Users\Pang\.gradle\caches\transforms-1\files-1.1\android-image-cropper-2.7.0.aar\239dd981fa75ced8942abbb0ad4e7126\AndroidManifest.xml:7:5-9:41
+MERGED from [com.theartofdev.edmodo:android-image-cropper:2.7.0] C:\Users\Pang\.gradle\caches\transforms-1\files-1.1\android-image-cropper-2.7.0.aar\239dd981fa75ced8942abbb0ad4e7126\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:design:27.1.0] C:\Users\Pang\.gradle\caches\transforms-1\files-1.1\design-27.1.0.aar\996910ba04dd5ba990874815c1788235\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.1.0] C:\Users\Pang\.gradle\caches\transforms-1\files-1.1\design-27.1.0.aar\996910ba04dd5ba990874815c1788235\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Pang\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\64b37ca829d42bc99d0c0176100b6824\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Pang\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\64b37ca829d42bc99d0c0176100b6824\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\Pang\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\6bc70d8ceb0317989a0b13235c138202\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\Pang\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\6bc70d8ceb0317989a0b13235c138202\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-maps:15.0.1] C:\Users\Pang\.gradle\caches\transforms-1\files-1.1\play-services-maps-15.0.1.aar\5a2058b69ac788a206cf8fbf9bc88e52\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:15.0.1] C:\Users\Pang\.gradle\caches\transforms-1\files-1.1\play-services-maps-15.0.1.aar\5a2058b69ac788a206cf8fbf9bc88e52\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:26.1.0] C:\Users\Pang\.gradle\caches\transforms-1\files-1.1\cardview-v7-26.1.0.aar\08938b76b2843cfb5971e68bad149354\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:26.1.0] C:\Users\Pang\.gradle\caches\transforms-1\files-1.1\cardview-v7-26.1.0.aar\08938b76b2843cfb5971e68bad149354\AndroidManifest.xml:20:5-44
+MERGED from [de.hdodenhof:circleimageview:2.2.0] C:\Users\Pang\.gradle\caches\transforms-1\files-1.1\circleimageview-2.2.0.aar\f64b343167effd0fd70fa3f257a77b7d\AndroidManifest.xml:5:5-7:41
+MERGED from [de.hdodenhof:circleimageview:2.2.0] C:\Users\Pang\.gradle\caches\transforms-1\files-1.1\circleimageview-2.2.0.aar\f64b343167effd0fd70fa3f257a77b7d\AndroidManifest.xml:5:5-7:41
+MERGED from [com.koushikdutta.async:androidasync:2.2.1] C:\Users\Pang\.gradle\caches\transforms-1\files-1.1\androidasync-2.2.1.aar\27e0cb7d0fbdf8a9cbc4f87627787743\AndroidManifest.xml:7:5-9:41
+MERGED from [com.koushikdutta.async:androidasync:2.2.1] C:\Users\Pang\.gradle\caches\transforms-1\files-1.1\androidasync-2.2.1.aar\27e0cb7d0fbdf8a9cbc4f87627787743\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:exifinterface:27.1.1] C:\Users\Pang\.gradle\caches\transforms-1\files-1.1\exifinterface-27.1.1.aar\5e08db8c8e4e8bb19d0188351ea0190c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:exifinterface:27.1.1] C:\Users\Pang\.gradle\caches\transforms-1\files-1.1\exifinterface-27.1.1.aar\5e08db8c8e4e8bb19d0188351ea0190c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.0] C:\Users\Pang\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.0.aar\1efd38a120077a88ce801e19ce442131\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.0] C:\Users\Pang\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.0.aar\1efd38a120077a88ce801e19ce442131\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.0] C:\Users\Pang\.gradle\caches\transforms-1\files-1.1\transition-27.1.0.aar\911806d9cccab12bba17e9adcdbc2e3c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.0] C:\Users\Pang\.gradle\caches\transforms-1\files-1.1\transition-27.1.0.aar\911806d9cccab12bba17e9adcdbc2e3c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Pang\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\b2e9b5bfe60d0b4e7f69372fe8aa9e39\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Pang\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\b2e9b5bfe60d0b4e7f69372fe8aa9e39\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Pang\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\5fef7ba275ce0afdee6ca610b0723142\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Pang\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\5fef7ba275ce0afdee6ca610b0723142\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\Pang\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\1efdd0e02241c44acbe86614091c7e59\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\Pang\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\1efdd0e02241c44acbe86614091c7e59\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] C:\Users\Pang\.gradle\caches\transforms-1\files-1.1\play-services-tasks-15.0.1.aar\c499a2b82edf8c971ebc527749af162e\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] C:\Users\Pang\.gradle\caches\transforms-1\files-1.1\play-services-tasks-15.0.1.aar\c499a2b82edf8c971ebc527749af162e\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\Pang\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\cceb1ced5277bed46292253a8992fbe6\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\Pang\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\cceb1ced5277bed46292253a8992fbe6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.0] C:\Users\Pang\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.0.aar\e189a202a981509828a37c273a1fb9b4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.0] C:\Users\Pang\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.0.aar\e189a202a981509828a37c273a1fb9b4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Pang\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\f75dfa6f26ca217dd16d5793b960446f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Pang\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\f75dfa6f26ca217dd16d5793b960446f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Pang\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\826421dad30431c30b814bc3272a904f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Pang\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\826421dad30431c30b814bc3272a904f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Pang\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\f2e7083e7560f6e987f1f20f393b1587\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Pang\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\f2e7083e7560f6e987f1f20f393b1587\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.0] C:\Users\Pang\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.0.aar\d8a3ef4002e69e31128771537662de7d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.0] C:\Users\Pang\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.0.aar\d8a3ef4002e69e31128771537662de7d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Pang\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\2155002a28af3c0038ceb3fdffcdf62a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Pang\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\2155002a28af3c0038ceb3fdffcdf62a\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Pang\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\c4a2d5f3bb295a9bb0cae8fe174ffae9\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Pang\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\c4a2d5f3bb295a9bb0cae8fe174ffae9\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Pang\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\42f5eb2e4ca2dcd0a63bba2a8ec918bf\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Pang\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\42f5eb2e4ca2dcd0a63bba2a8ec918bf\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Pang\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\e60ed53bbe736d63c382ceb3de643b7f\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Pang\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\e60ed53bbe736d63c382ceb3de643b7f\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Pang\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\e58549604e702ce8a53fc335806503bf\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Pang\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\e58549604e702ce8a53fc335806503bf\AndroidManifest.xml:20:5-44
+INJECTED from D:\Final PJ-1\New folder\Costomer\app\src\main\AndroidManifest.xml
+INJECTED from D:\Final PJ-1\New folder\Costomer\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from D:\Final PJ-1\New folder\Costomer\app\src\main\AndroidManifest.xml
+		ADDED from D:\Final PJ-1\New folder\Costomer\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Final PJ-1\New folder\Costomer\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\Final PJ-1\New folder\Costomer\app\src\main\AndroidManifest.xml
+		ADDED from D:\Final PJ-1\New folder\Costomer\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Final PJ-1\New folder\Costomer\app\src\main\AndroidManifest.xml
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from D:\Final PJ-1\New folder\Costomer\app\src\main\AndroidManifest.xml:70:13-72:58
+	android:resource
+		ADDED from D:\Final PJ-1\New folder\Costomer\app\src\main\AndroidManifest.xml:72:17-55
+	android:name
+		ADDED from D:\Final PJ-1\New folder\Costomer\app\src\main\AndroidManifest.xml:71:17-67
+uses-permission#android.permission.INTERNET
+ADDED from [com.koushikdutta.ion:ion:2.2.1] C:\Users\Pang\.gradle\caches\transforms-1\files-1.1\ion-2.2.1.aar\2297cca5bfaedc38e461bd1719a306a2\AndroidManifest.xml:11:5-67
+MERGED from [com.akexorcist:googledirectionlibrary:1.0.5] C:\Users\Pang\.gradle\caches\transforms-1\files-1.1\googledirectionlibrary-1.0.5.aar\71e0b3cf1bee6da0abd147b024b4c304\AndroidManifest.xml:11:5-67
+MERGED from [com.akexorcist:googledirectionlibrary:1.0.5] C:\Users\Pang\.gradle\caches\transforms-1\files-1.1\googledirectionlibrary-1.0.5.aar\71e0b3cf1bee6da0abd147b024b4c304\AndroidManifest.xml:11:5-67
+MERGED from [com.google.android.gms:play-services-maps:15.0.1] C:\Users\Pang\.gradle\caches\transforms-1\files-1.1\play-services-maps-15.0.1.aar\5a2058b69ac788a206cf8fbf9bc88e52\AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-maps:15.0.1] C:\Users\Pang\.gradle\caches\transforms-1\files-1.1\play-services-maps-15.0.1.aar\5a2058b69ac788a206cf8fbf9bc88e52\AndroidManifest.xml:24:5-67
+MERGED from [com.koushikdutta.async:androidasync:2.2.1] C:\Users\Pang\.gradle\caches\transforms-1\files-1.1\androidasync-2.2.1.aar\27e0cb7d0fbdf8a9cbc4f87627787743\AndroidManifest.xml:11:5-67
+MERGED from [com.koushikdutta.async:androidasync:2.2.1] C:\Users\Pang\.gradle\caches\transforms-1\files-1.1\androidasync-2.2.1.aar\27e0cb7d0fbdf8a9cbc4f87627787743\AndroidManifest.xml:11:5-67
+	android:name
+		ADDED from [com.koushikdutta.ion:ion:2.2.1] C:\Users\Pang\.gradle\caches\transforms-1\files-1.1\ion-2.2.1.aar\2297cca5bfaedc38e461bd1719a306a2\AndroidManifest.xml:11:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.android.gms:play-services-maps:15.0.1] C:\Users\Pang\.gradle\caches\transforms-1\files-1.1\play-services-maps-15.0.1.aar\5a2058b69ac788a206cf8fbf9bc88e52\AndroidManifest.xml:23:5-79
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:15.0.1] C:\Users\Pang\.gradle\caches\transforms-1\files-1.1\play-services-maps-15.0.1.aar\5a2058b69ac788a206cf8fbf9bc88e52\AndroidManifest.xml:23:22-76
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:15.0.1] C:\Users\Pang\.gradle\caches\transforms-1\files-1.1\play-services-maps-15.0.1.aar\5a2058b69ac788a206cf8fbf9bc88e52\AndroidManifest.xml:26:5-28:35
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:15.0.1] C:\Users\Pang\.gradle\caches\transforms-1\files-1.1\play-services-maps-15.0.1.aar\5a2058b69ac788a206cf8fbf9bc88e52\AndroidManifest.xml:27:9-41
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:15.0.1] C:\Users\Pang\.gradle\caches\transforms-1\files-1.1\play-services-maps-15.0.1.aar\5a2058b69ac788a206cf8fbf9bc88e52\AndroidManifest.xml:28:9-32
+meta-data#android.support.VERSION
+ADDED from [com.android.support:cardview-v7:26.1.0] C:\Users\Pang\.gradle\caches\transforms-1\files-1.1\cardview-v7-26.1.0.aar\08938b76b2843cfb5971e68bad149354\AndroidManifest.xml:23:9-25:38
+	android:value
+		ADDED from [com.android.support:cardview-v7:26.1.0] C:\Users\Pang\.gradle\caches\transforms-1\files-1.1\cardview-v7-26.1.0.aar\08938b76b2843cfb5971e68bad149354\AndroidManifest.xml:25:13-35
+	android:name
+		ADDED from [com.android.support:cardview-v7:26.1.0] C:\Users\Pang\.gradle\caches\transforms-1\files-1.1\cardview-v7-26.1.0.aar\08938b76b2843cfb5971e68bad149354\AndroidManifest.xml:24:13-51
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\Pang\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\1efdd0e02241c44acbe86614091c7e59\AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\Pang\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\1efdd0e02241c44acbe86614091c7e59\AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\Pang\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\1efdd0e02241c44acbe86614091c7e59\AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\Pang\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\1efdd0e02241c44acbe86614091c7e59\AndroidManifest.xml:24:13-79
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\Pang\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\cceb1ced5277bed46292253a8992fbe6\AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\Pang\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\cceb1ced5277bed46292253a8992fbe6\AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\Pang\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\cceb1ced5277bed46292253a8992fbe6\AndroidManifest.xml:24:13-58

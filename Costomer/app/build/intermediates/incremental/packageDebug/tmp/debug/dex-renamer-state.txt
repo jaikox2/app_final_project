@@ -1,0 +1,4 @@
+#Thu Dec 13 20:35:52 ICT 2018
+base.0=D\:\\Final PJ-1\\New folder\\Costomer\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex

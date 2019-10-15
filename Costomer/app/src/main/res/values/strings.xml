@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Space Delivery</string>
+    <string name="title_activity_res_menu">MenuActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Restaurant</string>
+    <string name="title_profile">Profile</string>
+    <string name="title_activity_get_res_locations_maps">Map</string>
+
+
+    <string-array name="planets_array">
+        <item>ไม่มี</item>
+        <item>ชาย</item>
+        <item>หญิง</item>
+    </string-array>
+
+</resources>

@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Space Delivery For Restaurant</string>
+    <string name="title_activity_res_menu">ResMenuActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Fill Food</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_profile">Profile</string>
+    <string name="title_activity_get_res_locations_maps">Map</string>
+</resources>

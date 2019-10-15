@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Space Delivery For Deliverman</string>
+    <string name="title_activity_res_menu">ResMenuActivity</string>
+    <string name="title_home">รายการจัดส่ง</string>
+    <string name="title_profile">โปรไฟล์</string>
+    <string name="title_activity_get_res_locations_maps">Map</string>
+</resources>
